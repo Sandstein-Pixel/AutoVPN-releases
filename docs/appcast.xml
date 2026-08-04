@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>AutoVPN</title>
+    <link>https://updates.autovpn.app/appcast.xml</link>
+    <description>AutoVPN-Updates</description>
+    <language>de</language>
+    <item>
+      <title>AutoVPN 1.0.1</title>
+      <pubDate>Tue, 04 Aug 2026 09:12:25 +0200</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+      <description><![CDATA[AutoVPN 1.0.1.]]></description>
+      <enclosure
+        url="https://github.com/Sandstein-Pixel/AutoVPN-releases/releases/download/v1.0.1/AutoVPN.dmg"
+        sparkle:edSignature="hFKMDR9KjpAc9uej4X4r1sIb13K1Q9I9HrOZot1ChubgYmpROSWSzxBFlVMPVOoD5dcYob7GEfnRhfB03lTjBg=="
+        length="7528618"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
